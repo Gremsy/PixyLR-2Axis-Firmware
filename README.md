@@ -1,4 +1,4 @@
-Gremsy PixyLR-2Axis Firmware
+# Gremsy PixyLR-2Axis Firmware
 
 What's new?
 
